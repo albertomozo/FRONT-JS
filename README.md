@@ -8,6 +8,6 @@ Información y ejercicios relacionados con el cursos de  JS.
 ### 01 - Introducción 
 Primeros pasos con etiqueta <SCRIPT>  y metodos básicos de window (alert, confirm)
 
-repositorio 
+[📎repositorio](https://github.com/albertomozo/JS-01-introduccion)
 
 

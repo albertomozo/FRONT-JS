@@ -21,7 +21,8 @@ Uso de variables, document.getElementById() , ....
 ## Alumnos
 [📒 Presentación JSON ALUMNOS](https://docs.google.com/presentation/d/1ov_qBhBvdle4v3f6GzU2Kr5V_fBrVNWauP4iPO5Px04/edit?usp=sharing)
 
-[🐱](https://github.com/albertomozo/JS-11)
+[![JSON ALUMNOS](https://img.shields.io/github/v/tag/albertomozo/JS-11)
+](https://github.com/albertomozo/JS-11)
 
 ## Materias
 
@@ -34,7 +35,7 @@ Uso de variables, document.getElementById() , ....
 
 [Manual JS-10 - Bootstrap] : https://docs.google.com/presentation/d/1tXUKUEa3w_v5qbha1FpAXqb702XYLhdiYFYOWrJVNkA/edit#slide=id.g1d182c8501f_0_0
 
-[🐱](https://github.com/albertomozo/JS-10-BOOTSTRAP)
+[](https://github.com/albertomozo/JS-10-BOOTSTRAP)
 
 # FORMACIONES COMPLEMENTARIAS
 

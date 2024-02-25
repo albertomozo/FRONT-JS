@@ -1,14 +1,14 @@
 # FRONT-JS
 Información y ejercicios relacionados con el cursos de  JS.
 
-[📒 Presentación FRONT-JS](https://docs.google.com/presentation/d/1rTIUbxueAOxUOdXNKrYtGgCswSCpzSENOLpReap8E5A/edit?usp=sharing)
+[![Presentacio_JS](https://img.shields.io/badge/ejer_json-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1rTIUbxueAOxUOdXNKrYtGgCswSCpzSENOLpReap8E5A/edit?usp=sharing)
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://docs.google.com/presentation/d/1rTIUbxueAOxUOdXNKrYtGgCswSCpzSENOLpReap8E5A/edit?usp=sharing)
 
 ## TEMAS
 
 ### 01 - Introducción 
-Primeros pasos con etiqueta <SCRIPT>  y metodos básicos de window (alert, confirm)
+Primeros pasos con etiqueta <SCRIPT>  , metodos básicos de window (alert, confirm), varibles, expresiones, etc...
 
 [📎repositorio](https://github.com/albertomozo/JS-01-introduccion)
 
@@ -19,19 +19,15 @@ Uso de variables, document.getElementById() , ....
 # EJERCICIOS DOCUMENTADOS
 
 ## Alumnos
-[📒 Presentación JSON ALUMNOS](https://docs.google.com/presentation/d/1ov_qBhBvdle4v3f6GzU2Kr5V_fBrVNWauP4iPO5Px04/edit?usp=sharing)
+[![Presentacio_alumnos](https://img.shields.io/badge/ejer_json-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1ov_qBhBvdle4v3f6GzU2Kr5V_fBrVNWauP4iPO5Px04/edit?usp=sharing)
 
-[![FRONT JS](https://img.shields.io/badge/https://github.com/albertomozo/JS11-000000?style=for-the-badge&logo=GITHUB&logoColor=white)
-](https://github.com/albertomozo/JS-11)
+[![GITHUB](https://img.shields.io/badge/github_alumnos-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-11)
 
-
-[![JSON ALUMNOS](https://img.shields.io/badge/googleslides-Presentacion_JSON_ALUMNOS-blue?style=for-the-badge&logo=GOOGLESLIDES&logoColor=yellow)
-](https://docs.google.com/presentation/d/1ov_qBhBvdle4v3f6GzU2Kr5V_fBrVNWauP4iPO5Px04/edit?usp=sharing)
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ejer_Alumnos_JSON-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/albertomozo/JS-11)
 
 ## Materias
+
+
+
 
 [📒 Presentación JS-10](https://docs.google.com/presentation/d/1tXUKUEa3w_v5qbha1FpAXqb702XYLhdiYFYOWrJVNkA/edit?usp=sharing)
 

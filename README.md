@@ -24,7 +24,8 @@ Uso de variables, document.getElementById() , ....
 [![FRONT JS](https://img.shields.io/badge/https://github.com/albertomozo/JS11-000000?style=for-the-badge&logo=GITHUB&logoColor=white)
 ](https://github.com/albertomozo/JS-11)
 
-[![JSON ALUMNOS](https://img.shields.io/badge/https://docs.google.com/presentation/d/1ov_qBhBvdle4v3f6GzU2Kr5V_fBrVNWauP4iPO5Px04/edit?usp=sharing-000000?style=for-the-badge&logo=GOOGLESLIDES&logoColor=yellow)
+
+[![JSON ALUMNOS](https://img.shields.io/badge/https://docs.google.com/presentation/d/1ov_qBhBvdle4v3f6GzU2Kr5V_fBrVNWauP4iPO5Px04/edit-000000?style=for-the-badge&logo=GOOGLESLIDES&logoColor=yellow)
 ](https://docs.google.com/presentation/d/1ov_qBhBvdle4v3f6GzU2Kr5V_fBrVNWauP4iPO5Px04/edit?usp=sharing)
 
 

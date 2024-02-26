@@ -1,9 +1,12 @@
 # FRONT-JS
+
 Información y ejercicios relacionados con el cursos de  JS.
 
-[![Presentacio_JS](https://img.shields.io/badge/ejer_json-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1rTIUbxueAOxUOdXNKrYtGgCswSCpzSENOLpReap8E5A/edit?usp=sharing)
+[![Presentacio_JS](https://img.shields.io/badge/MANUAL_Javascript-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1rTIUbxueAOxUOdXNKrYtGgCswSCpzSENOLpReap8E5A/edit?usp=sharing)
 
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://docs.google.com/presentation/d/1rTIUbxueAOxUOdXNKrYtGgCswSCpzSENOLpReap8E5A/edit?usp=sharing)
+EL cursos de compone de una presentación del lenguaje JS, y los ejemplos que se listan en la sección temas, alojados en repositorio de github. 
+
+La última sección es un listado de ejercicos completos desarrollados y desplegados que estan explicados paso a paso.
 
 ## TEMAS
 
@@ -40,7 +43,11 @@ Página usando JSON, para mostrar el despliegue de una aplicación a través de 
 [![NETLIFY](https://img.shields.io/badge/materias-blue?style=for-the-badge&logo=NETLIFY&logoColor=blue&labelColor=black)](https://web-materias.netlify.app)
 
 
+# APORTACIONES
 
+EN este apartado se incluye un repositorio en el que los alumnos puedan subir sus aportaciones y trabajos.
+
+[![GITHUB](https://img.shields.io/badge/JS-APORTACIONES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-99-APORTACIONES)
 
 
 
@@ -52,6 +59,11 @@ Página usando JSON, para mostrar el despliegue de una aplicación a través de 
 
 ## PHP
 
+# CONCLUSION
+
+Mientras este proyecto este en construcción 🚧, el contenido seguira ampliandose.
+
+© 2024 Alberto Mozo
 
 
 

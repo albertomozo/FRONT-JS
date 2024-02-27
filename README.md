@@ -15,6 +15,11 @@ Primeros pasos con etiqueta <SCRIPT>  , metodos básicos de window (alert, confi
 
 [![GITHUB](https://img.shields.io/badge/01_INTRODUCCION-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-01-introduccion)
 
+### 02 - Estructuras de Control
+Uso de condiconales (IF ELSE   SWITCH) e iteraciones (WHILE     FOR)
+
+[![GITHUB](https://img.shields.io/badge/02_ESTRUCTURAS_CONTROL-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-02-estructuras-control)
+
 # EJERCICIOS DOCUMENTADOS
 
 ## Alumnos

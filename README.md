@@ -20,6 +20,16 @@ Uso de condiconales (IF ELSE   SWITCH) e iteraciones (WHILE     FOR)
 
 [![GITHUB](https://img.shields.io/badge/02_ESTRUCTURAS_CONTROL-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-02-estructuras-control)
 
+### 03 - Funciones
+Las funciones nos permiten organizar el código de manera más eficientes. 
+
+[![GITHUB](https://img.shields.io/badge/03_FUNCIONES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-03-FUNCIONES)
+
+### 04 - MATH - STRING - DATE
+PAra manejar los numeros, los caracteres y las fechas, JS usa unos objetos globales. 
+
+[![GITHUB](https://img.shields.io/badge/04_MATH_STRING_DATE-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-04-MATH-STRING-DATE)
+
 # EJERCICIOS DOCUMENTADOS
 
 ## Alumnos

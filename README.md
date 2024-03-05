@@ -26,9 +26,19 @@ Las funciones nos permiten organizar el código de manera más eficientes.
 [![GITHUB](https://img.shields.io/badge/03_FUNCIONES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-03-FUNCIONES)
 
 ### 04 - MATH - STRING - DATE
-PAra manejar los numeros, los caracteres y las fechas, JS usa unos objetos globales. 
+Para manejar los numeros, los caracteres y las fechas, JS usa unos objetos globales. 
 
 [![GITHUB](https://img.shields.io/badge/04_MATH_STRING_DATE-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-04-MATH-STRING-DATE)
+
+### 05 - ARRAYS 
+Los Arrays, también llamados arreglos, son una estructura compuesta de datos ampliamente utilizada en todos los lenguajes de programación. 
+
+[![GITHUB](https://img.shields.io/badge/05_ARRAYS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-05-ARRAYS)
+
+### 06 - FORMULARIOS 
+Los Formularios son la comunicacion con nuestros usuarios. Su manejo en el cliente es una de las tareas más importantes del diseño WEB.
+
+[![GITHUB](https://img.shields.io/badge/06_FORMULARIOS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-06-FORMULARIOS)
 
 # EJERCICIOS DOCUMENTADOS
 
@@ -56,6 +66,20 @@ Página usando JSON, para mostrar el despliegue de una aplicación a través de 
 [![GITHUB](https://img.shields.io/badge/github_materias-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-10)
 
 [![NETLIFY](https://img.shields.io/badge/materias-blue?style=for-the-badge&logo=NETLIFY&logoColor=blue&labelColor=black)](https://web-materias.netlify.app)
+
+
+
+
+## Ejercicio Bombilla 💡
+
+Un repaso a JS a traves del típico ejercico de pagar y enecender una bombilla.
+
+[![Presentacion Bombilla](https://img.shields.io/badge/ejer_materias-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1PTntZp9XaIsdBQjSVFWmDCHbYBComNpCnd-mCCNjgqA/edit?usp=sharing)
+
+[![GITHUB](https://img.shields.io/badge/github_ejercicio_Bombilla💡-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-XX-01-Bombilla)
+
+
+
 
 
 # APORTACIONES

@@ -21,7 +21,7 @@ Uso de condiconales (IF ELSE   SWITCH) e iteraciones (WHILE     FOR)
 [![GITHUB](https://img.shields.io/badge/02_ESTRUCTURAS_CONTROL-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-02-estructuras-control)
 
 ### 03 - Funciones
-Las funciones nos permiten organizar el código de manera más eficientes. 
+Las funciones nos permiten organizar el código de manera más eficiente. 
 
 [![GITHUB](https://img.shields.io/badge/03_FUNCIONES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-03-FUNCIONES)
 
@@ -36,9 +36,15 @@ Los Arrays, también llamados arreglos, son una estructura compuesta de datos am
 [![GITHUB](https://img.shields.io/badge/05_ARRAYS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-05-ARRAYS)
 
 ### 06 - FORMULARIOS 
-Los Formularios son la comunicacion con nuestros usuarios. Su manejo en el cliente es una de las tareas más importantes del diseño WEB.
+Los Formularios permiten la comunicacion con nuestros usuarios. Su manejo en el cliente es una de las tareas más importantes del diseño WEB.
 
 [![GITHUB](https://img.shields.io/badge/06_FORMULARIOS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-06-FORMULARIOS)
+
+### 08 - EVENTOS 
+Ejemplos de eventos de teclado y de mouse (scroll)
+
+[![GITHUB](https://img.shields.io/badge/08_EVENTOS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-08-Eventos)
+
 
 # EJERCICIOS DOCUMENTADOS
 
@@ -72,7 +78,7 @@ Página usando JSON, para mostrar el despliegue de una aplicación a través de 
 
 ## Ejercicio Bombilla 💡
 
-Un repaso a JS a traves del típico ejercico de pagar y enecender una bombilla.
+Un repaso a JS a traves del típico ejercico de apagar y encender una bombilla. Desde imagenes JPG a SVG,....
 
 [![Presentacion Bombilla](https://img.shields.io/badge/ejer_materias-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1PTntZp9XaIsdBQjSVFWmDCHbYBComNpCnd-mCCNjgqA/edit?usp=sharing)
 

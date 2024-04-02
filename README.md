@@ -43,7 +43,7 @@ Los Formularios permiten la comunicacion con nuestros usuarios. Su manejo en el 
 ### 07 - OBJETOS
 Los objetos de Javascript JSON, son  datos semiestructurados, mediante el par clave , valor. 
 
-[![GITHUB](https://img.shields.io/badge/07_OBJETOS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-05-OBJETOS)
+[![GITHUB](https://img.shields.io/badge/07_OBJETOS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-07-OBJETOS)
 
 ### 08 - EVENTOS 
 Ejemplos de eventos de teclado y de mouse (scroll)

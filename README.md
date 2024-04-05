@@ -41,7 +41,7 @@ Los Formularios permiten la comunicacion con nuestros usuarios. Su manejo en el 
 [![GITHUB](https://img.shields.io/badge/06_FORMULARIOS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-06-FORMULARIOS)
 
 ### 07 - OBJETOS
-Los objetos de Javascript JSON, son  datos semiestructurados, mediante el par clave , valor. 
+Los objetos de Javascript JSON, son  datos semiestructurados, mediante el par clave , valor. En esta sección se muestra como crearlos y manipularlos.
 
 [![GITHUB](https://img.shields.io/badge/07_OBJETOS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-07-OBJETOS)
 
@@ -49,6 +49,26 @@ Los objetos de Javascript JSON, son  datos semiestructurados, mediante el par cl
 Ejemplos de eventos de teclado y de mouse (scroll)
 
 [![GITHUB](https://img.shields.io/badge/08_EVENTOS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-08-Eventos)
+
+### 09 - COOKIES -LOCALSTORAGE
+Las cookies y el localstorage  permite guardar información en el navegador del cliente. 
+
+[![GITHUB](https://img.shields.io/badge/09_COOKIES-LOCALSTORAGE-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-09-cookies-localstorage)
+
+### 10 - OBJETOS GLOBALES
+Ejemplos para manejar navigator, location, ...
+
+[![GITHUB](https://img.shields.io/badge/10_OBJETOS-GLOBALES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-10-objetos-globales)
+
+
+### 12 - API
+Ejemplos para recorrer cualquier API recursivamente y  buscardor de peliculas en una api de peliculas
+
+[![GITHUB](https://img.shields.io/badge/12_API-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-12-API)
+
+
+
+
 
 
 # EJERCICIOS DOCUMENTADOS

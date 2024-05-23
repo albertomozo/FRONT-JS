@@ -4,19 +4,19 @@ Información y ejercicios relacionados con el cursos de  JS.
 
 [![Presentacio_JS](https://img.shields.io/badge/MANUAL_Javascript-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1rTIUbxueAOxUOdXNKrYtGgCswSCpzSENOLpReap8E5A/edit?usp=sharing)
 
-EL cursos de compone de una presentación del lenguaje JS, y los ejemplos que se listan en la sección temas, alojados en repositorio de github. 
+El cursos de compone de una presentación del lenguaje JS, y los ejemplos que se listan en la sección temas, alojados en repositorio de github. 
 
 La última sección es un listado de ejercicos completos desarrollados y desplegados que estan explicados paso a paso.
 
 ## TEMAS
 
 ### 01 - Introducción 
-Primeros pasos con etiqueta <SCRIPT>  , metodos básicos de window (alert, confirm), varibles, expresiones, etc...
+Primeros pasos con etiqueta ```<SCRIPT> ``` , metodos básicos de window (alert, confirm), variables, expresiones, etc...
 
 [![GITHUB](https://img.shields.io/badge/01_INTRODUCCION-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-01-introduccion)
 
 ### 02 - Estructuras de Control
-Uso de condiconales (IF ELSE   SWITCH) e iteraciones (WHILE     FOR)
+Uso de condicionales (IF ELSE   SWITCH) e iteraciones (WHILE     FOR)
 
 [![GITHUB](https://img.shields.io/badge/02_ESTRUCTURAS_CONTROL-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-02-estructuras-control)
 
@@ -26,7 +26,7 @@ Las funciones nos permiten organizar el código de manera más eficiente.
 [![GITHUB](https://img.shields.io/badge/03_FUNCIONES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-03-FUNCIONES)
 
 ### 04 - MATH - STRING - DATE
-Para manejar los numeros, los caracteres y las fechas, JS usa unos objetos globales. 
+Para manejar los números, los carácteres y las fechas, JS usa unos objetos globales. 
 
 [![GITHUB](https://img.shields.io/badge/04_MATH_STRING_DATE-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-04-MATH-STRING-DATE)
 
@@ -71,7 +71,17 @@ Ejemplos para recorrer cualquier API recursivamente y  buscardor de peliculas en
 
 
 
+
+
 # EJERCICIOS DOCUMENTADOS
+
+## tablas de multiplicar
+
+https://github.com/albertomozo/JS-XX-tablas-multiplicar
+
+Vamos a repasar las tablas, condiciones, generación de código JS document.write e innerHTML, introducción de datos mediante prompt y etiquetas
+
+
 
 ## Alumnos
 
@@ -88,9 +98,9 @@ Vemos paso a paso como desarrolar una pagina web que lee los datos de un JSON, p
 
 ## Materias - traversing the DOM
 
-Página usando JSON, para mostrar el despliegue de una aplicación a través de git, github y netlify, usando Bootstarp, tecnicas de traversing the dom
+Página usando JSON, para mostrar el despliegue de una aplicación a través de git, github y netlify, usando Bootstrap, y tecnicas de traversing the dom
 
-🚀 Proyecto en desarrollo que pretende mostrar todos los cursos creado, categorizarlos y en un futuro crear un generador de itinerarios formativos
+🚀 Proyecto en desarrollo que pretende mostrar todos los cursos creados, categorizarlos y en un futuro crear un generador de itinerarios formativos
 
 [![Presentacion_materias](https://img.shields.io/badge/ejer_materias-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1tXUKUEa3w_v5qbha1FpAXqb702XYLhdiYFYOWrJVNkA/edit?usp=sharing)
 
@@ -108,6 +118,59 @@ Un repaso a JS a traves del típico ejercico de apagar y encender una bombilla. 
 [![Presentacion Bombilla](https://img.shields.io/badge/ejer_materias-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1PTntZp9XaIsdBQjSVFWmDCHbYBComNpCnd-mCCNjgqA/edit?usp=sharing)
 
 [![GITHUB](https://img.shields.io/badge/github_ejercicio_Bombilla💡-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-XX-01-Bombilla)
+
+
+##  Ejercicio Galeria
+
+https://github.com/albertomozo/JS-XX-galeria
+
+https://github.com/albertomozo/JS-XX-GALERIA-SOL
+
+
+
+## Ventanas modales
+
+Ejemplo de ventanas emergente, pop up y ventnas modales en HTML, CSS y JS
+
+https://github.com/albertomozo/JS-XX-modales
+
+
+
+## Ejercicio Carrito
+
+Partiendo del ejercicio de materias, desarrollamos un carrito, adapatando diversos códigos.
+
+https://github.com/albertomozo/JS-10
+
+## Curriculum desde JSON
+
+Ejemplo de curriculum vinculado a getmanfred (linkedn) , github y .
+
+https://github.com/albertomozo/JS-XX-CV
+
+## curso alumnos
+
+Sobre un JSON, se analizan los iteradores, metodos de array, mediante ejemplos practicos.
+
+https://github.com/albertomozo/JS-XX-curso_alumnos
+
+https://github.com/albertomozo/JS-99-APORTACIONES
+
+# Proyecto Animales
+
+ESte repositorio, simular  el desarrollo de un proyecto con un cliente ficticio. Se parte de una idea con el cliente y va avanzando a medida que se mantienen reuniones ficticias.
+
+https://github.com/albertomozo/animales
+
+# Ejercicios Varios
+
+https://github.com/albertomozo/JS-ZZ-EJERCICIOS
+
+
+
+
+
+
 
 
 
@@ -128,6 +191,9 @@ EN este apartado se incluye un repositorio en el que los alumnos puedan subir su
 ## VUE 
 
 ## PHP
+
+https://github.com/albertomozo/PHP
+
 
 # CONCLUSION
 

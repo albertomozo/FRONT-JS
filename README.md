@@ -53,18 +53,18 @@ Ejemplos de eventos de teclado y de mouse (scroll)
 ### 09 - COOKIES -LOCALSTORAGE
 Las cookies y el localstorage  permite guardar información en el navegador del cliente. 
 
-[![GITHUB](https://img.shields.io/badge/09_COOKIES-LOCALSTORAGE-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-09-cookies-localstorage)
+[![GITHUB](https://img.shields.io/badge/09_COOKIES_LOCALSTORAGE-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-09-cookies-localstorage)
 
 ### 10 - OBJETOS GLOBALES
 Ejemplos para manejar navigator, location, ...
 
-[![GITHUB](https://img.shields.io/badge/10_OBJETOS-GLOBALES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-10-objetos-globales)
+[![GITHUB](https://img.shields.io/badge/10_OBJETOS_GLOBALES-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-10-objetos-globales)
 
 
 ### 12 - API
 Ejemplos para recorrer cualquier API recursivamente y  buscardor de peliculas en una api de peliculas
 
-[![GITHUB](https://img.shields.io/badge/12_API-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-12-API)
+[![GITHUB](https://img.shields.io/badge/12_API-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/JS-12-API-JSON)
 
 
 
@@ -124,6 +124,13 @@ EN este apartado se incluye un repositorio en el que los alumnos puedan subir su
 # FORMACIONES COMPLEMENTARIAS
 
 ## HTM-CSS
+
+[![HTML_CSS](https://img.shields.io/badge/MANUAL_HTML_CSS-yellow?style=for-the-badge&logo=google-slides&logoColor=yellow&labelColor=black)](https://docs.google.com/presentation/d/1KfPKrD9dmRxfIlOQ9hdRaeayiibZQ7jZJXq_qWlHOTA/edit?usp=sharing)
+
+[![GITHUB](https://img.shields.io/badge/HTML_CSS-black?style=for-the-badge&logo=GITHUB&logoColor=white&labelColor=black)](https://github.com/albertomozo/CURSO_HTML_CSS)
+
+
+
 
 ## VUE 
 
